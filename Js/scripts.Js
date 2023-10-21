@@ -11,7 +11,7 @@ let games = 0;
 p2Button.style.backgroundColor = 'blue';
 p2Button.style.color = 'white';
 
-// contador de jogadas
+// contador de jogadas ----
 let player1 = 0;
 let player2 = 0;
 
